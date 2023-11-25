@@ -9,9 +9,6 @@ export default {
       fontFamily:{
         'primary': ['Raleway']
       },
-      backgroundImage: {
-        'primary': "url('./src/assets/images/bg.jpg')"
-      }
     },
   },
   plugins: [],
