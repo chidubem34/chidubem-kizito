@@ -10,7 +10,7 @@ export default {
         'primary': ['Raleway']
       },
       backgroundImage: {
-        'primary': "url('./src/assets/images/stars.jpg')"
+        'primary': "url('./src/assets/images/bg.jpg')"
       }
     },
   },
