@@ -2,18 +2,18 @@ export const links = [
     {
         id: 1,
         name: "Home",
-        url: "/"
+        url: "/chidubem-kizito/"
     },
 
     {
         id: 2,
         name: "About",
-        url: "/about"
+        url: "chidubem-kizito/about"
     },
 
     {
         id: 3,
         name: "Projects",
-        url: "/projects"
+        url: "chidubem-kizito/projects"
     },
 ]
