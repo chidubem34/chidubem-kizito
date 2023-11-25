@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import rainy from '../assets/images/rainy.jpg'
 import '../App.css'
 
