@@ -5,8 +5,8 @@ import station from '../assets/images/station.svg'
 
 const Home = () => {
     return (
-        <div className=''>
-            <div className='py-10 font-primary'>
+        <div className='bg-black bg-fixed min-h-[100vh]'>
+            <div className='py-20 font-primary'>
                 <div className='px-16 text-white text-4xl'>
                     <div className='flex items-center py-5'>
                         <div className='w-[50%]'>

@@ -8,8 +8,8 @@ import '../App.css'
 
 const Projects = () => {
     return (
-        <div>
-            <div className='pt-20 px-16'>
+        <div className='bg-black bg-fixed min-h-[100vh]'>
+            <div className='py-20 px-16'>
 
                 <div>
                     <div>
@@ -23,7 +23,7 @@ const Projects = () => {
                         </div>
 
                         <div>
-                            <div className=' grid grid-cols-3 gap-10 py-16'>
+                            <div className=' grid lg:grid-cols-3 sm:grid-cols-2 gap-10 py-16'>
                                 <div className='card so'>
                                     <img src={rainy} alt="stew" className='img' />
                                     <div className='m-4'>
